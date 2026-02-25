@@ -118,19 +118,32 @@ Mitigation:
 Add your app screenshots below:
 
 ### 🏠 Login Screen
-![Home Screen](screenshots/<img width="391" height="690" alt="Login" src="https://github.com/user-attachments/assets/542a706e-6947-4d8c-a007-c8e7bb68e5c7" />
-ogin.png)
+ <table>
+     <tr>
+       <td><img src="https://github.com/user-attachments/assets/542a706e-6947-4d8c-a007-c8e7bb68e5c7" alt="Settings 1" width="300"/></td>
+     </tr>
+   </table>
 
 ### 📊 HomeScreen Dashboard
-![Impact Dashboard](screenshots/HomeScreen.png
-<img width="393" height="702" alt="HomeScreen" src="https://github.com/user-attachments/assets/d8e06f76-b705-4ceb-83c2-af9f55c63a4c" />)
+ <table>
+     <tr>
+       <td><img src="https://github.com/user-attachments/assets/d8e06f76-b705-4ceb-83c2-af9f55c63a4c" alt="Settings 1" width="300"/></td>
+     </tr>
+   </table>
 
 ### 🌱 Habit Builder
-![Habit Builder](screenshots/<img width="311" height="690" alt="HabitTracker" src="https://github.com/user-attachments/assets/05b00462-5903-4d6d-a1c4-90ed14ce9241" />)
+ <table>
+     <tr>
+       <td><img src="https://github.com/user-attachments/assets/05b00462-5903-4d6d-a1c4-90ed14ce9241" alt="Settings 1" width="300"/></td>
+     </tr>
+   </table
 
 ### 🏆 Statatics
-![Gamification](screenshots/Statatics.png)
-<img width="357" height="664" alt="Statistics" src="https://github.com/user-attachments/assets/831e838e-881c-4629-ac06-6b59aee54952" />
+ <table>
+     <tr>
+       <td><img src="https://github.com/user-attachments/assets/831e838e-881c-4629-ac06-6b59aee54952" alt="Settings 1" width="300"/></td>
+     </tr>
+   </table
 
 ---
 
