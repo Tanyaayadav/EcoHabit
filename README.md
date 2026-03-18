@@ -27,7 +27,7 @@ High-level goals (priority order):
 
 - Users struggle to maintain new habits due to lack of time, motivation, or external support systems.
 - Individuals feel their efforts are insignificant without broader collective action.
-- Existing solutions lack personalization and emotional engagement in sustainability efforts
+- Existing solutions lack personalization and emotional engagement in sustainability efforts.
 
 ---
 
