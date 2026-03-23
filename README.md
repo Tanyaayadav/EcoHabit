@@ -21,6 +21,7 @@ High-level goals (priority order):
 3. Educate users with daily tips aligned with their chosen habits.
 4. Build an Impact Dashboard to quantify environmental benefits.
 
+
 ---
 
 ## 🚩 Key Pain Points
