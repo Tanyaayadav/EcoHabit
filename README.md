@@ -153,7 +153,7 @@ Add your app screenshots below:
 - Advanced AI-based sustainability recommendations
 - Expanded NGO partnerships
 - Community-based global challenges
-- Carbon footprint calculator integration
+- Carbon footprint calculator integration.
 
 ---
 
