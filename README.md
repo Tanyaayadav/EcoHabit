@@ -159,4 +159,4 @@ Add your app screenshots below:
 
 ## 📌 Conclusion
 
-EcoHabit aims to bridge the gap between environmental awareness and real action by making sustainable living simple, measurable, and rewarding. By combining habit formation psychology, personalization, and gamification, the app empowers individuals to create lasting positive environmental impact.
+EcoHabit aims to bridge the gap between environmental awareness and real action by making sustainable living simple, measurable, and rewarding. By combining habit formation psychology, personalization, and gamification, the app empowers individuals to create lasting positive environmental impact. 
