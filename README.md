@@ -1,4 +1,4 @@
-# 🌱 EcoHabit
+# 🌱 ZooExplorer
 
 A mobile app empowering individuals to adopt sustainable living habits through personalized tracking, actionable tips, and gamification.
 
@@ -6,7 +6,7 @@ A mobile app empowering individuals to adopt sustainable living habits through p
 
 ## 📌 Overview
 
-EcoHabit helps users build and maintain eco-friendly habits in their daily lives. By combining personalization, real-time impact tracking, and engaging gamification elements, the app transforms small sustainable actions into measurable environmental impact.
+ZooExplorer helps users build and maintain eco-friendly habits in their daily lives. By combining personalization, real-time impact tracking, and engaging gamification elements, the app transforms small sustainable actions into measurable environmental impact.
 
 The platform focuses on long-term habit formation while fostering a sense of collective responsibility and emotional connection to sustainability.
 
